@@ -1,0 +1,10 @@
+ Volume in drive C is BOOTCAMP
+ Volume Serial Number is 5CB1-C2C4
+
+ Directory of C:\Users\Samhita\Desktop\Myapp
+
+07/17/2018  09:31 PM    <DIR>          .
+07/17/2018  09:31 PM    <DIR>          ..
+07/17/2018  09:31 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  30,240,522,240 bytes free
